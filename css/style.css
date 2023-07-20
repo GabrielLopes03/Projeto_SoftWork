@@ -1,0 +1,10 @@
+.titulo_principal{
+        background-color: #cf910a;
+        color: #000000;
+        font-size: 32px;
+        height: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 30px;   
+}
